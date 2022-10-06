@@ -12,5 +12,5 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: Add report file
-          title: 'PR'
-          body: Test PR
+          title: 'PR 2'
+          body: Test PR 2
